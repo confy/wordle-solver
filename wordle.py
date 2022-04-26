@@ -1,14 +1,6 @@
 import os
 import re
 
-
-def check_for_prime(n):
-    """ check for a prime number """
-    
-    
-    
-    
-
 class Wordle():
     """ Object for finding wordle solutions using regex with a simple interface """
 
